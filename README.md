@@ -1,6 +1,6 @@
 ### Hi, I'm Jee 👋
 
-Software Engineer at Microsoft, and a dad.
+Software Engineer at Microsoft.
 
 - 🌱 I'm currently working on a storage service for personal data in M365 that is shared between Edge and a myriad of M365 apps. It provides a single store for all natural personal data into a single API and storage layer to consolidate understanding of the user across work and life - fully schematized. One day I just might excavate more details. 
 - 🔭 In my intermission, I like to learn and catalogue all sorts of [algorithms](https://github.com/gitgik/data-structures-implementation) –– available in markdown and executable Jupyter Notebooks. I'm also learning C# and distributed design while applying many of these patterns at work.
